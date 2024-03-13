@@ -1,1 +1,1 @@
-Abro un documento de texto dentro de la carpeta libro con el contenido indicado
+Abro un documento de texto dentro de la carpeta..
